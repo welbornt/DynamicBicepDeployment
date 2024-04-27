@@ -1,0 +1,12 @@
+{
+    "subscriptionId":           "00000000-0000-0000-80000-000000000000",
+    "templateFile":             "main.bicep",
+    "deploymentName":           "",
+    "location":                 "westus2",
+    "resourceGroupName":        "simple-rg",
+    "vnetName":                 "simple-vnet",
+    "subnetName":               "simple-subnet",
+    "nsgName":                  "simple-nsg",
+    "vmName":                   "simple-vm",
+    "adminUsername":            "adminuser"
+}
